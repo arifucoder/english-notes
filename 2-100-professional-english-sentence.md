@@ -8,7 +8,7 @@
 
 | # | Casual | Professional |
 |---|---|---|
-| 1 | I want the report. | Could you please provide me with the report?, I'd like to request the report., I'm looking forward to receiving the report. |
+| 1 | I want the report. | Could you please provide me the report?,Could you please provide me with the report?, I'd like to request the report., I'm looking forward to receiving the report. |
 | 2 | Send me the file. | Could you please send me the file?, I'd appreciate it if you could share the file., I would be grateful if you could send me the file., Would you mind sending me the file?, Could you please provide me with a copy of the file? |
 | 3 | Do this now. | Could you please prioritize this?, Could you please take care of this as soon as possible?, Could you handle this at your earliest convenience?, Could you please get this done today? |
 | 4 | Give me some time. | Could you please give me some time?, Could I have a little more time on this?, Please allow me some time., Would you mind giving me a little more time?, I'll need a little more time to complete this., Could you give me a bit more time to work on this? |
