@@ -16,7 +16,7 @@
 | 6 | Call me. | Please feel free to give me a call. |
 | 7 | I need your help. | I'd appreciate your help with this. |
 | 8 | Can you do this? | Would you be able to take care of this? |
-| 9 | Fix this. | Could you please look into this issue? |
+| 9 | Fix this. | Could you please look into this issue?, Could you please fix this?, Could you please take a look and fix this?, Would you mind fixing this?, Could you please look into this and resolve it? |
 | 10 | Tell me fast. | I'd appreciate a quick response. |
 
 ## ২. সময় ও Meeting ঠিক করা
