@@ -10,14 +10,14 @@
 |---|---|---|
 | 1 | I want the report. | Could you please provide me the report?,Could you please provide me with the report?, I'd like to request the report., I'm looking forward to receiving the report. |
 | 2 | Send me the file. | Could you please send me the file?, I'd appreciate it if you could share the file., I would be grateful if you could send me the file., Would you mind sending me the file?, Could you please provide me with a copy of the file? |
-| 3 | Do this now. | Could you please prioritize this?, Could you please take care of this as soon as possible?, Could you handle this at your earliest convenience?, Could you please get this done today? |
+| 3 | Do this now. | Could you please take care of this as soon as possible?, Could you please prioritize this?, Could you handle this at your earliest convenience?, Could you please get this done today? |
 | 4 | Give me some time. | Could you please give me some time?, Could I have a little more time on this?, Please allow me some time., Would you mind giving me a little more time?, I'll need a little more time to complete this., Could you give me a bit more time to work on this? |
-| 5 | Check this. | Would you mind reviewing this?, Could you please take a look at this?, Could you please review this?, I'd appreciate it if you could review this. |
-| 6 | Call me. | Please feel free to give me a call., Could you please give me a call?, Could you call me when you have a moment?, Would you mind giving me a call?, I'd appreciate it if you could give me a call. |
-| 7 | I need your help. | I'd appreciate your help with this., Could you please help me with this?, Would you be able to assist me with this?, I was hoping you could help me with this. |
-| 8 | Can you do this? | Would you be able to take care of this?, Could you please do this?, Would you be able to do this?, Would you mind handling this?, Could you please assist with this? |
-| 9 | Fix this. | Could you please look into this issue?, Could you please fix this?, Could you please take a look and fix this?, Would you mind fixing this?, Could you please look into this and resolve it? |
-| 10 | Tell me fast. | I'd appreciate a quick response., Could you please let me know as soon as possible?, Please let me know soon., Could you get back to me shortly?,  |
+| 5 | Check this. | Could you please review this?, Would you mind reviewing this?, Could you please take a look at this?,  I'd appreciate it if you could review this. |
+| 6 | Call me. |  Could you please give me a call?, Please feel free to give me a call., Could you call me when you have a moment?, Would you mind giving me a call?, I'd appreciate it if you could give me a call. |
+| 7 | I need your help. | Could you please help me with this?, I'd appreciate your help with this., Would you be able to assist me with this?, I was hoping you could help me with this. |
+| 8 | Can you do this? | Could you please do this?, Would you be able to take care of this?, Would you be able to do this?, Would you mind handling this?, Could you please assist with this? |
+| 9 | Fix this. | Could you please fix this?, Could you please look into this issue?, Could you please take a look and fix this?, Would you mind fixing this?, Could you please look into this and resolve it? |
+| 10 | Tell me fast. | Could you please let me know as soon as possible?, I'd appreciate a quick response., Please let me know soon., Could you get back to me shortly?,  |
 
 ## ২. সময় ও Meeting ঠিক করা
 
