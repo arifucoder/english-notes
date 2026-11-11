@@ -103,3 +103,25 @@ Auxiliary Verb প্রধানত ২ ধরনের: **Primary** আর **M
 - Which developer **created** this application?
 
 এখানে **Who** বা **What** নিজেই Subject।
+
+---
+
+## ৩. তোমার জন্য একটা সহজ নিয়ম
+
+**Present Simple** আর **Past Simple**-এ WH-question বানানোর সময়:
+
+| WH-word কী? | কী করবে? | উদাহরণ |
+|---|---|---|
+| WH-word **Subject না** | **do / does / did** বসাবে | What **do** you want? / Where **does** she work? / Who **did** you call? |
+| WH-word **Subject** | আলাদা **do / does / did** লাগবে না | Who **wants** coffee? / Who **works** here? / Who **called** you? |
+
+> এটা মূলত **Action Verb**-এর question-এর নিয়ম। **Be verb** আর **Modal verb**-এর structure আলাদা।
+
+**Be verb আর Modal verb হলে do / does / did বসে না।** Be verb বা modal-টাই Subject-এর আগে চলে আসে:
+
+| ধরন | ✅ সঠিক | ❌ ভুল |
+|---|---|---|
+| Be verb | Where **are** you? | Where do you are? |
+| Be verb | Why **was** he late? | Why did he was late? |
+| Modal | What **can** you do? | What do you can do? |
+| Modal | Where **should** I go? | Where do I should go? |
