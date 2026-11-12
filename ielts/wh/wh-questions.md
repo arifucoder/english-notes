@@ -150,7 +150,15 @@
 85. You can't sleep at night.
 
 ---
+### mixed
+86. She has been teaching at this school since 2019.
+87. You went to Cox's Bazar last winter.
+88. The new office will be opened next month.
+89. Karim is waiting for you outside.
 
+
+
+---
 ## Bonus: নিজের প্রশ্ন বানাও
 
 একটা job interview-তে interviewer তোমাকে যে প্রশ্নগুলো করতে পারে, এমন ১০টা WH-question নিজে বানাও। চেষ্টা করো যাতে do, does, did, be verb, modal আর perfect সবগুলোই অন্তত একবার আসে। তারপর Claude-কে পাঠিয়ে চেক করিয়ে নাও।
