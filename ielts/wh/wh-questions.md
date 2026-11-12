@@ -171,6 +171,11 @@
 103. She was very tired after the trip.
 104. The children have been playing outside for two hours.
 105. You chose React because it is popular.
+106. Something is wrong with the internet.
+107. They will announce the results on Sunday.
+108. You didn't finish your homework.
+109. The blue bag belongs to Mitu.
+110. He had rice and fish for dinner.
 
 ---
 ## Bonus: নিজের প্রশ্ন বানাও
