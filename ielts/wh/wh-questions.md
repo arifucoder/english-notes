@@ -176,6 +176,11 @@
 108. You didn't finish your homework.
 109. The blue bag belongs to Mitu.
 110. He had rice and fish for dinner.
+111. Those houses were destroyed by the flood.
+112. You usually check your email twice a day.
+113. The meeting is being held in Room 5.
+114. You can't come to the office tomorrow.
+115. My father has worked as a teacher for 30 years.
 
 ---
 ## Bonus: নিজের প্রশ্ন বানাও
