@@ -166,7 +166,11 @@
 98. The project was finished two weeks ago.
 99. You are going to visit your grandparents this weekend.
 100. Rafi's laptop is faster than mine.
-
+101. Ten developers applied for the job.
+102. You should drink more water.
+103. She was very tired after the trip.
+104. The children have been playing outside for two hours.
+105. You chose React because it is popular.
 
 ---
 ## Bonus: নিজের প্রশ্ন বানাও
