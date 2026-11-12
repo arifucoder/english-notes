@@ -155,7 +155,17 @@
 87. You went to Cox's Bazar last winter.
 88. The new office will be opened next month.
 89. Karim is waiting for you outside.
-
+90. Your sister's husband works at a bank.
+91. They couldn't find the hotel.
+92. You have three cousins in London.
+93. Someone stole my bike yesterday.
+94. The train leaves at 7:30 every morning.
+95. He was fixing the server when the power went out.
+96. You have already sent the email to the client.
+97. Nusrat doesn't eat meat.
+98. The project was finished two weeks ago.
+99. You are going to visit your grandparents this weekend.
+100. Rafi's laptop is faster than mine.
 
 
 ---
